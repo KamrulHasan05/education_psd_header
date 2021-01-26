@@ -1,0 +1,83 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	/*header start*/
+	.logo {
+	    width: 70%;
+	}
+	.menu ul li a {
+	    padding: 3px 15px !important;
+	}
+	.menu ul li a:hover{
+		color: #f05c5c !important;
+		background-color: transparent;
+	}
+	.d_search_ul,
+	.d_user_ul{
+		left: 0;
+	}
+	.d_search_ul {
+	    min-width: 18.5rem;
+	}
+	/*header end*/
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	/*header start*/
+	.logo {
+	    width: 70%;
+	}
+	.menu ul li a {
+	    padding: 3px 15px !important;
+	}
+	.menu ul li a:hover{
+		color: #f05c5c !important;
+		background-color: transparent;
+	}
+	.d_search_ul,
+	.d_user_ul{
+		left: 0;
+	}
+	.d_search_ul {
+	    min-width: 18.5rem;
+	}
+	/*header end*/
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	/*header start*/
+	.logo {
+	    width: 70%;
+	}
+	.menu ul li a {
+	    padding: 3px 15px !important;
+	}
+	.menu ul li a:hover{
+		color: #f05c5c !important;
+		background-color: transparent;
+	}
+	.d_search_ul,
+	.d_user_ul{
+		left: 0;
+	}
+	.d_search_ul {
+	    min-width: 18.5rem;
+	}
+	/*header end*/
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+	
+}
+
+/*Extra Extra large devices (Extra large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+	
+}
